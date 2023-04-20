@@ -1,0 +1,4 @@
+[
+  { "question": "puis-je assurer un mineur ?", "answer": "vous pouvez l'assurer sur revoluo" }
+  // Ajoutez d'autres questions et réponses ici
+]
